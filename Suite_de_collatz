@@ -9,4 +9,4 @@ while integer_1 != 1:
     else:
         integer_1 = (3 * integer_1) + 1
     print("Le terme " + str(i) + " de la suite est égal à " + str(integer_1))
-print("Votre graine admet un temps de vol de " + str(i))
+print("Votre graine a un temps de vol de " + str(i))
