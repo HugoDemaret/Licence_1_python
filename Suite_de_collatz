@@ -1,0 +1,12 @@
+#Cette suite est un problème mathématique ouvert, voir problème de Collatz, problème "3n+1"
+#Demaret Hugo
+#Algorithme de calcul de la suite de Collatz en fonction d'une seed rentrée par l'utilisateur
+integer_1 = int(input("Rentrez la valeur de la graine"))
+i = 0
+while integer_1 != 4:
+    i += 1
+    if integer_1 % 2 == 0:
+        integer_1 = integer_1 // 2
+    else:
+        integer_1 = (3 * integer_1) + 1
+    print("Le terme " + str(i) + " de la suite est égal à " + str(integer_1))
