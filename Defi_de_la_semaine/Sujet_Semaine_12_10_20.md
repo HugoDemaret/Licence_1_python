@@ -8,6 +8,6 @@ Envoyez vos réponse avant le dimanche 1er novembre à minuit à:
 defihebdo.hugodemaret@gmail.com
 avec l'objet sous la forme: DefiHebdo_Date_NomPrenom
 
-Le corrigé sera posté dans la semaine du 19 octobre. 
+Le corrigé sera posté dans la semaine du 2 novembre.
 
 Indices: probabilités, jeu de fléchettes
