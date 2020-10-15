@@ -1,11 +1,17 @@
 REGLES DES DEFIS:
 
 Règles importantes concernant ces défis:
+
 Ne pas tricher (ça ne sert à rien, c'est dommage, vous n'allez pas apprendre, et en plus ça se voit assez vite).
+
 Toute triche est éliminatoire.
+
 Envoyez avant la date limite.
+
 Programme en PYTHON S.V.P.
+
 Envoyez à cette addresse mail: defihebdo.hugodemaret@gmail.com .
+
 L'ojbet du mail doit être: DefiHebdo_Date_NomPrenom .
 
 
