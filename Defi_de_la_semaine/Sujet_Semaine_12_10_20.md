@@ -26,13 +26,13 @@ Je vous souhaite donc bonne chance!
 
 #Hugo Demaret
 
-+------------------------------------------------------------------------------------------------------------------------------+
-| Grille de correction:                                                                                                        |
-|                                                                                                                              |
-| Rapidité d'exécution: 0 points (pas prise en compte dans ce défi)                                                            |
-| Originalité (élégance): 7 points                                                                                             | 
-| Qualitée du code: 5 points                                                                                                   |
-| Qualitée des commentaires: 3 points                                                                                          |
-| Respect des consignes: 5 points (attention, un non respect total des consignes entraine l'élimination d'office)              |
-| Le total est une note sur 20 points.                                                                                         |
-+------------------------------------------------------------------------------------------------------------------------------+
+
+ Grille de correction:                                                                                                        
+                                                                                                                              
+ Rapidité d'exécution: 0 points (pas prise en compte dans ce défi)                                                            
+ Originalité (élégance): 7 points                                                                                             
+ Qualitée du code: 5 points                                                                                                   
+ Qualitée des commentaires: 3 points                                                                                          
+ Respect des consignes: 5 points (attention, un non respect total des consignes entraine l'élimination d'office)              
+ Le total est une note sur 20 points.                                                                                         
+
