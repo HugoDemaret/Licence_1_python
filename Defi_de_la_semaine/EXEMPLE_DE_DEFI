@@ -18,9 +18,9 @@ integer_1 = int(input("Rentrez la valeur de la graine"))
 i = 0
 while integer_1 != 1:
     i += 1
-    if integer_1 % 2 == 0:                                  #Test la parité de Un ( "a%b" nous donne le reste de la division euclidienne de a par b)
+    if integer_1 % 2 == 0:                                  #Test la parité de Un
         integer_1 = integer_1 // 2                          #Un+1 = Un/2, attention ici à bien mettre un "//" afin d'avoir une division entière !
-    else:                                                   #Si un nombre entier n'est pas pair, il est impair, donc on peut mettre une condition else
+    else:                                                   
         integer_1 = (3 * integer_1) + 1                     #Un+1 = 3Un+1
     print("Le terme " + str(i) + " de la suite est égal à " + str(integer_1))
 print("Votre graine a un temps de vol de " + str(i))
