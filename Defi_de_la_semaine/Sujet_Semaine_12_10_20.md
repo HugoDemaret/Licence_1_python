@@ -1,7 +1,7 @@
 
 Ce premier sujet est une sorte de test, il me permettra d'évaluer le niveau global et d'ajuster en fonction pour les prochains défis!
 
-Ce premier défi s'étale sur environ 2 semaine, et se terminera donc le vendredi 30 octobre à minuit (GMT+2)
+Ce premier défi s'étale sur environ 2 semaines, et se terminera donc le vendredi 30 octobre à minuit (GMT+2)
 Aussi, je vous demande de lire les règles avant de commencer, afin de vous éviter une perte de temps!
 
 Voici donc le sujet:
