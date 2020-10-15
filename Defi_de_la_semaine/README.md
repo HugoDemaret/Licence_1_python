@@ -1,3 +1,5 @@
+REGLES DES DEFIS:
+
 Règles importantes concernant ces défis:
 Ne pas tricher (ça ne sert à rien, c'est dommage, vous n'allez pas apprendre, et en plus ça se voit assez vite)
 Toute triche est éliminatoire
