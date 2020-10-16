@@ -10,7 +10,7 @@ Envoyez avant la date limite.
 
 Programme en PYTHON S.V.P.
 
-Envoyez à cette addresse mail: defihebdo.hugodemaret@gmail.com .
+Envoyez à cette addresse mail: hugodemaret@defi-lovelace.fr .
 
 L'ojbet du mail doit être: DefiHebdo_Date_NomPrenom .
 
@@ -19,5 +19,5 @@ Chaque défi aura une grille de correction différente, prenant en compte l'él�
 (trop de commentaire ou pas assez) ainsi que du code (nom des variables, respect des conventions, clarté etc). Cette grille de notation sera précisé dans le sujet!
 L'objectif de ces défis est de vous faire progresser, aussi le plus important n'est pas de gagner, mais de participer!
 
-Si vous avez des idées de défi, soumettez les moi à la même adresse (defihebdo.hugodemaret@gmail.com)
+Si vous avez des idées de défi, soumettez les moi à la même adresse (hugodemaret@defi-lovelace.fr)
 Enfin, si vous avez des suggestions, retours, critiques, questions etc, contactez-moi !
