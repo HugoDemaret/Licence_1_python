@@ -18,7 +18,7 @@ Règles et informations pour le défi : [Informations.md](https://github.com/Hug
 
 ### La liste, à trier par grandeur :
 
-   liste = [1, a, chat, Chiens, arbre, 47884abed, fr-FR, 5.1, 7, 9, -15, 157, 011001, 3, 3, b, a, EC2EAC]
+   liste = ['1', 'a', 'chat', 'Chiens', 'arbre', '47884abed', 'fr-FR', '5.1', '7', '9', '-15', '157', '011001', '3', '3', 'b', 'a', 'EC2EAC']
 
 ### Conseils et astuces
 
