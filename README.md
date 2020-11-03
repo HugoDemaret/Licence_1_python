@@ -1,5 +1,5 @@
 # Licence_1_python
-Cours python corrigé
+Cours python corrigés
 NB: je ne donne pas les sujets car je n'ai pas les droits dessus. Les programmes ci-dessus en revanche sont libres.
 Je vous conseille d'essayer de les coder par vous même avant de regarder cette correction.
 Si vous avez des questions, ou du mal à comprendre l'une de mes corrections, n'hésitez pas à me contacter! 
