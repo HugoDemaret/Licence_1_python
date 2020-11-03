@@ -39,4 +39,4 @@ Règles et informations pour le défi : [Informations.md](https://github.com/Hug
  - Clarté et lisibilité du code : 3 points
  - Respect des conventions : 1 point
  - Respect des consignes : 1 point
- - Calcul de la complexité (facultatif) : 1 point
+ - *Calcul de la complexité (facultatif) : 1 point*
