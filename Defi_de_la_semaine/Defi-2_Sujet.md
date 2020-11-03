@@ -6,7 +6,9 @@
 ### Introduction
 
 Ce nouveau défi porte sur les algorithmes de tri, qui font partie de la liste d'algorithmes qu'il est nécéssaire de connaître. Cette semaine, vous devrez donc en créer un, avec une complexité minimale ! <br/>
-Une difficulté toutefois : le programme devra trier différents types en même temps : entiers, réels, chaînes de caractères ASCII, ... 
+Une difficulté toutefois : le programme devra trier différents types en même temps : entiers, réels, chaînes de caractères ASCII, ... <br/>
+
+Règles et informations pour le défi : [Informations.md](https://github.com/HugoDemaret/Licence_1_python/blob/main/Defi_de_la_semaine/Informations.md)
 
 ### Contraintes
 
