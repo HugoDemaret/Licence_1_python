@@ -24,7 +24,6 @@ Enfin, le plus important est de participer, et non pas de gagner!
 Je vous souhaite donc bonne chance!
 
 
-### Hugo Demaret
 
 
  Grille de correction:                                                                                                        
@@ -34,5 +33,8 @@ Je vous souhaite donc bonne chance!
  Qualitée du code: 5 points                                                                                                   
  Qualitée des commentaires: 3 points                                                                                          
  Respect des consignes: 5 points (attention, un non respect total des consignes entraine l'élimination d'office)              
- Le total est une note sur 20 points.                                                                                         
+ Le total est une note sur 20 points.
+ 
+ 
+### Hugo Demaret
 
