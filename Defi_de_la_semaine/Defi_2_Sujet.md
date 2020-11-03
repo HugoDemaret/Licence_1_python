@@ -28,7 +28,7 @@ Règles et informations pour le défi : [Informations.md](https://github.com/Hug
 ### Ressources
 
 - Documentation officielle de Python 3 : https://docs.python.org/3/
-- Une documentation alternative : https://devdocs.io/python~3.8/
+- Une documentation alternative : https://devdocs.io/python/
 
 
 ### Grille de notation
