@@ -10,4 +10,6 @@ def fibonacci():
             fib_zero = fib_un
             fib_un = sum
         print(sum)
+     else:
+        print("Votre nombre doit être supérieur à 0!")
 fibonacci()
