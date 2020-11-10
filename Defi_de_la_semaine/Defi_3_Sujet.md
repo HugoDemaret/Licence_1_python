@@ -30,14 +30,14 @@ uuid_list = [’michel’ ,’bob’ ,’alice’ ,’alice05’ ,’sys.admin�
 
 
 ### Questions: 
-- 1) Quelle est la complexité moyenne de votre algorithme? Maximale? Minimale?
-- 2) Quels pourraient être les problèmes avec une implémentation réelle? Proposez une solution, sans toutefois la coder.
+- 1 Quelle est la complexité moyenne de votre algorithme? Maximale? Minimale?
+- 2 Quels pourraient être les problèmes avec une implémentation réelle? Proposez une solution, sans toutefois la coder.
 
 ### Grille de notation: 
 *Défi noté sur un total de 20 points*
 - Réponse aux questions: 5 points
-	-Question i: 3 points
-	-Question ii: 2 points
+	- Question 1: 3 points
+	- Question 2: 2 points
 - Rapidité de l’algorithme (complexité): 7 points
 - Algorithme en pseudo-code: 5 points
 - Clarté du programme python (commentaires, respect des conventions): 3 points
