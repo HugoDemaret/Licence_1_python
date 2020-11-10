@@ -3,7 +3,7 @@
 **Date limite :** 28 novembre 2020 <br/>
 **Difficulté :** Moyenne
 
-###Introduction:
+### Introduction:
 La maîtrise des algorithmes de recherche est essentielle. <br/>
 Vous devrez donc en utiliser un, tout en conservant une complexité minimale!
 
