@@ -32,7 +32,7 @@ Pour éviter que n’importe qui se connecte, vous devez utiliser un système d�
 
 ### Questions
 
- 1. Quelle est la complexité moyenne de votre algorithme ? Maximale ? Minimale ?
+ 1. Quelle est la complexité moyenne de votre algorithme ? Même question pour les complexités maximales et minimales.
  2. Quels pourraient être les problèmes avec une implémentation réelle ? Proposez une solution, sans toutefois la coder.
 
 ### Grille de notation
