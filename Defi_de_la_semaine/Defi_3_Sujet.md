@@ -1,4 +1,4 @@
-# DÉFI LOVELACE n°2
+# DÉFI LOVELACE n°3
 
 **Date limite :** 28 novembre 2020 <br/>
 **Difficulté :** Moyenne
