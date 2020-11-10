@@ -30,8 +30,8 @@ uuid_list = [’michel’ ,’bob’ ,’alice’ ,’alice05’ ,’sys.admin�
 
 
 ### Questions: 
-- 1 Quelle est la complexité moyenne de votre algorithme? Maximale? Minimale?
-- 2 Quels pourraient être les problèmes avec une implémentation réelle? Proposez une solution, sans toutefois la coder.
+1) Quelle est la complexité moyenne de votre algorithme? Maximale? Minimale?
+2) Quels pourraient être les problèmes avec une implémentation réelle? Proposez une solution, sans toutefois la coder.
 
 ### Grille de notation: 
 *Défi noté sur un total de 20 points*
