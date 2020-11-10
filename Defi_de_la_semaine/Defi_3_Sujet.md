@@ -26,7 +26,7 @@ Pour éviter que n’importe qui se connecte, vous devez utiliser un système d�
 
 ### Contraintes
 
-- Votre algorithme doit être le plus rapide possible (pas de recherche séquentielle)!
+- Votre algorithme doit être le plus rapide possible (pas de recherche séquentielle) !
 - Vous devez rendre l'algorithme en pseudo-code et le programme en Python.
 
 
