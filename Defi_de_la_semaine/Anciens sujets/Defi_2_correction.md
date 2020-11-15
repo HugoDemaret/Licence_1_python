@@ -2,4 +2,4 @@
 
 ### Programme python [Defi_2_correction.py](https://github.com/HugoDemaret/Licence_1_python/blob/main/Defi_de_la_semaine/Anciens%20sujets/Defi_2_Correction.py)
 <br/>
-### Calcul de la complexité algorithmique ![calcul.png](https://github.com/HugoDemaret/Licence_1_python/blob/main/Defi_de_la_semaine/Anciens%20sujets/CorrectionDefiLovelace2.png)
+### Calcul de la complexité algorithmique <img src="https://github.com/HugoDemaret/Licence_1_python/blob/main/Defi_de_la_semaine/Anciens%20sujets/CorrectionDefiLovelace2.png" alt="Complexité calcul">
