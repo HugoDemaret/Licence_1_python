@@ -8,7 +8,7 @@ Vous trouverez ci-après toutes les informations concernant les défis.
 Vous trouverez tous les sujets [ici](https://github.com/HugoDemaret/Licence_1_python/tree/main/Defi_de_la_semaine). <br/> 
 La correction de chaque sujet se trouve au même endroit.
 
-**Utile :** accédez facilement à la liste des sujets en sauvegardant le lien [devi-lovelace.fr](devi-lovelace.fr).
+**Utile :** accédez facilement à la liste des sujets en sauvegardant le lien [defi-lovelace.fr](devi-lovelace.fr).
 
 ## Règles des défis
 
