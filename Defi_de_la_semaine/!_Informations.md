@@ -19,10 +19,10 @@ La correction de chaque sujet se trouve au même endroit.
 
 ## Comment rendre votre travail ?
 
-Envoyez simplement un mail à hugodemaret@defi-lovelace.fr, en renseignant l'objet `DefiLovelace_Numéro_Date_NomPrénom_Version`.  <br/> 
+Envoyez simplement un mail à validation@defi-lovelace.fr, en renseignant l'objet `DefiLovelace_Numéro_Date_NomPrénom_Version`.  <br/> 
 Vous pouvez envoyer d'autres versions de votre travail tant que la date limite de rendu n'est pas dépassée.
 
 ## Suggestions et feedback
 
-Si vous souhaitez soumettre une idée de défi, envoyez un mail à l'adresse hugodemaret@defi-lovelace.fr, en renseignant l'objet `Suggestion Défi Lovelace`. <br/> 
+Si vous souhaitez soumettre une idée de défi, envoyez un mail à l'adresse validation@defi-lovelace.fr, en renseignant l'objet `Suggestion Défi Lovelace`. <br/> 
 Vous pouvez aussi me faire vos retours, critiques et suggestions d'amélioration en me contactant via cette adresse mail.
